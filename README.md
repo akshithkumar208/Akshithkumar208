@@ -5,7 +5,7 @@ Turning Data into Insights
 </h3>
 
 <p align="center">
-Business Intelligence Enthusiast • Python • SQL • Power BI
+Business Analyst Enthusiast • Python • SQL • Power BI
 </p>
 
 ---
