@@ -2,22 +2,24 @@
 
 # ⭐ Welcome to My Portfolio 💻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=C8A2FF&center=true&vCenter=true&width=900&lines=Akshith+Kumar;Business+Analyst+Aspiring;Turning+Data+Into+Insights;Python+•+SQL+•+Power+BI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=B57EDC&center=true&vCenter=true&width=950&lines=Akshith+Kumar;Business+Analyst+Aspiring;Turning+Data+Into+Insights;Python+•+SQL+•+Power+BI)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C8A2FF&height=4&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B57EDC&height=4&section=header"/>
 
 </div>
 
 ---
 
-## ⭐ About Me
+# ⭐ About Me
+
+<img src="https://user-images.githubusercontent.com/74038190/216656963-1d5b3b6e-3d53-4f46-a8b0-89d7c0f7d4de.gif" width="100%">
 
 <table>
 <tr>
 
-<td width="180" align="center">
+<td width="170">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="140"/>
 
 </td>
 
@@ -25,23 +27,27 @@
 
 ### 👋 Hi, I'm **Akshith Kumar**
 
-🎓 **B.Tech Artificial Intelligence & Data Science**
+🎓 B.Tech Artificial Intelligence & Data Science
 
-🏫 **Panimalar Engineering College, India**
+🏫 Panimalar Engineering College
 
-💼 **Future Business Analyst**
+💼 Future Business Analyst
 
-📊 Passionate about **Business Analytics, Data Analytics and Business Intelligence**
+📊 Passionate about
 
-🌱 Currently learning
+- Business Analytics
+- Business Intelligence
+- Data Analytics
+- Dashboard Development
+
+🌱 Currently Learning
 
 - Python
 - SQL
 - Power BI
 - Excel
-- Data Analytics
 
-🚀 **Goal:** Transform data into meaningful business insights.
+🚀 Turning data into meaningful business insights.
 
 </td>
 
@@ -50,11 +56,11 @@
 
 ---
 
-## ⭐ Skills & Tools
+# ⭐ Skills & Tools
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216656963-1d5b3b6e-3d53-4f46-a8b0-89d7c0f7d4de.gif" width="100%">
 
-<table>
+<table align="center">
 
 <tr>
 
@@ -166,60 +172,22 @@ GitHub
 
 </table>
 
-</div>
-
 ---
 
-## ⭐ Quick Facts
+# ⭐ Currently Learning
 
-<table>
+<img src="https://user-images.githubusercontent.com/74038190/216656963-1d5b3b6e-3d53-4f46-a8b0-89d7c0f7d4de.gif" width="100%">
 
-<tr>
-
-<td>🎯 Career Goal</td>
-
-<td>Business Analyst</td>
-
-</tr>
-
-<tr>
-
-<td>📍 Location</td>
-
-<td>India 🇮🇳</td>
-
-</tr>
-
-<tr>
-
-<td>🎓 College</td>
-
-<td>Panimalar Engineering College</td>
-
-</tr>
-
-<tr>
-
-<td>📊 Interests</td>
-
-<td>Business Analytics • Data Analytics • Dashboard Development</td>
-
-</tr>
-
-<tr>
-
-<td>💡 Motto</td>
-
-<td><i>A goal without a plan is just a wish.</i></td>
-
-</tr>
-
-</table>
+- 📊 Business Analytics
+- 📈 Power BI Dashboarding
+- 🐍 Python Automation
+- 🗄️ SQL Query Optimization
+- 🤖 AI for Business Intelligence
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C8A2FF&height=3&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B57EDC&height=4&section=footer"/>
 
 </div>
