@@ -1,6 +1,4 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=🚀+Welcome+to+My+GitHub+Profile!;📊+Future+Business+Analyst;💻+AI+%26+Data+Science+Student)](https://git.io/typing-svg)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌟 About Me
@@ -10,7 +8,6 @@
 <td width="120">
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100" alt="Coding GIF"/>
 </td>
-
 <td>
 
 👋 Hi, I'm **Akshith Kumar**
@@ -32,56 +29,17 @@
 ## 🛠️ Skills & Tools
 
 <table align="center">
-
 <tr>
-
-<td align="center" width="98">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/>
-<br>Python
-</td>
-
-<td align="center" width="98">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"/>
-<br>Java
-</td>
-
-<td align="center" width="98">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="48"/>
-<br>R
-</td>
-
-<td align="center" width="98">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48"/>
-<br>MySQL
-</td>
-
-<td align="center" width="98">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48"/>
-<br>HTML5
-</td>
-
-<td align="center" width="98">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48"/>
-<br>CSS3
-</td>
-
-<td align="center" width="98">
-<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="48"/>
-<br>Power BI
-</td>
-
-<td align="center" width="98">
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="48"/>
-<br>Canva
-</td>
-
-<td align="center" width="98">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48"/>
-<br>VS Code
-</td>
-
+<td align="center" width="98"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/><br>Python</td>
+<td align="center" width="98"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"/><br>Java</td>
+<td align="center" width="98"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="48"/><br>R</td>
+<td align="center" width="98"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48"/><br>MySQL</td>
+<td align="center" width="98"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48"/><br>HTML5</td>
+<td align="center" width="98"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48"/><br>CSS3</td>
+<td align="center" width="98"><img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="48"/><br>Power BI</td>
+<td align="center" width="98"><img src="https://cdn.simpleicons.org/canva/00C4CC" width="48"/><br>Canva</td>
+<td align="center" width="98"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48"/><br>VS Code</td>
 </tr>
-
 </table>
 
 ---
@@ -89,24 +47,17 @@
 ## 🚀 Featured Projects
 
 ### 🌱 AI-Based Crop Recommendation System
-
 - CNN & LSTM based crop recommendation
 - Weather forecasting
 - Smart agriculture solution
 
----
-
 ### 📦 Dynamic Inventory Reallocation System
-
 - Inventory optimization
 - Demand forecasting
 - Power BI Dashboard
 - Business analytics solution
 
----
-
 ### ₿ Hybrid Bitcoin Price Prediction
-
 - CNN-LSTM
 - ARIMA
 - XGBoost
@@ -114,93 +65,53 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Let's Connect
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akshithkumar208&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshithkumar208&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshithkumar208&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akshithkumar208&theme=tokyonight&row=1&column=7&no-frame=true"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<table>
-
+<table align="center">
 <tr>
-
 <td align="center">
-
-<a href="https://www.linkedin.com/in/akshith-kumar-595772285/">
-
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="mailto:Akshithkumar2062005@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://www.hackerrank.com/akshithkumar2061">
-
-<img src="https://img.shields.io/badge/HackerRank-Profile-success?style=for-the-badge&logo=hackerrank"/>
-
-</a>
-
-</td>
-
-<td align="center">
-
 <a href="https://github.com/akshithkumar208">
-
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge"/>
 </a>
-
 </td>
 
-</tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/akshith-kumar-595772285/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</td>
 
+<td align="center">
+<a href="mailto:Akshithkumar2062005@gmail.com">
+<img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.hackerrank.com/akshithkumar2061">
+<img src="https://img.shields.io/badge/HackerRank-Profile-success?style=for-the-badge&logo=hackerrank"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/akshithkumar208">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+</td>
+</tr>
 </table>
 
 ---
 
-## 💡 Quote of the Day
+## 💡 My Favorite Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">
+
+"It's not about ideas. It's about making ideas happen."
+
+</h3>
+
+<p align="center"><b>— Scott Belsky</b></p>
 
 ---
 
@@ -211,9 +122,7 @@
 </svg>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshithkumar208&theme=react-dark&hide_border=true&area=true"/>
-
 </p>
 
 <svg viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
@@ -225,17 +134,7 @@
 <h2 align="center">🐍 Watch My Contributions Come Alive</h2>
 
 <p align="center">
-
 <img src="https://github.com/akshithkumar208/akshithkumar208/blob/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=akshithkumar208&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
 </p>
 
 ---
